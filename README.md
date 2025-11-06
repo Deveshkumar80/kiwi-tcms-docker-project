@@ -20,3 +20,5 @@ The deployment is containerized using **Docker**, ensuring easy setup and consis
 ```bash
 git clone https://github.com/Deveshkumar80/kiwi-tcms-docker-project.git
 cd kiwi-tcms-docker-project
+user id-Devesh@1
+password-Naincy@1
